@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Diri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            background-color: #f2f2f2;
+        }
+        .footer a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Biodata Diri</h2>
+        <table>
+            <tr>
+                <td>NIM:</td>
+                <td>211011060047</td>
+		<td rowspan="8"><img src="C:\Users\user\Downloads\biodata\biodata.jpg.JPG" height="400px" width="300px"></td>
+            </tr>
+            <tr>
+                <td>Nama:</td>
+                <td>Kerenh Sutjipto</td>
+            </tr>
+            <tr>
+                <td>Jenjang Perkuliahan:</td>
+                <td>S1</td>
+            </tr>
+            <tr>
+                <td>Sekolah / Perguruan Tinggi:</td>
+                <td>Universitas Sam Ratulangi</td>
+            </tr>
+            <tr>
+                <td>Alamat:</td>
+                <td>Jalan Karombasan Utara Lingkungan 1</td>
+            </tr>
+            <tr>
+                <td>Tempat/tgl Lahir:</td>
+                <td>Manado, 12 Agustus 2004</td>
+            </tr>
+            <tr>
+                <td>Hobby:</td>
+                <td>Design & Videography</td>
+            </tr>
+        </table>
+        </div>
+    <div class="footer">
+        <a href="https://www.instagram.com/kerenhs._/">Instagram</a>
+    </div>
+</body>
+</html>
